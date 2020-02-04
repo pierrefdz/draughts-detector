@@ -1,0 +1,25 @@
+﻿  draughtsdetector.cpp
+C:\Users\pierr\Documents\Polytechnique\Info\INF573 - Computer Vision\Project\draughtsdetector.cpp(33,13): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
+C:\Users\pierr\Documents\Polytechnique\Info\INF573 - Computer Vision\Project\draughtsdetector.cpp(37,13): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+C:\Users\pierr\Documents\Polytechnique\Info\INF573 - Computer Vision\Project\draughtsdetector.cpp(67,83): warning C4244: 'argument' : conversion de '_Ty' en '_Ty', perte possible de données
+C:\Users\pierr\Documents\Polytechnique\Info\INF573 - Computer Vision\Project\draughtsdetector.cpp(67,83): warning C4244:         with
+C:\Users\pierr\Documents\Polytechnique\Info\INF573 - Computer Vision\Project\draughtsdetector.cpp(67,83): warning C4244:         [
+C:\Users\pierr\Documents\Polytechnique\Info\INF573 - Computer Vision\Project\draughtsdetector.cpp(67,83): warning C4244:             _Ty=double
+C:\Users\pierr\Documents\Polytechnique\Info\INF573 - Computer Vision\Project\draughtsdetector.cpp(67,83): warning C4244:         ]
+C:\Users\pierr\Documents\Polytechnique\Info\INF573 - Computer Vision\Project\draughtsdetector.cpp(67,83): warning C4244:         and
+C:\Users\pierr\Documents\Polytechnique\Info\INF573 - Computer Vision\Project\draughtsdetector.cpp(67,83): warning C4244:         [
+C:\Users\pierr\Documents\Polytechnique\Info\INF573 - Computer Vision\Project\draughtsdetector.cpp(67,83): warning C4244:             _Ty=float
+C:\Users\pierr\Documents\Polytechnique\Info\INF573 - Computer Vision\Project\draughtsdetector.cpp(67,83): warning C4244:         ]
+C:\Users\pierr\Documents\Polytechnique\Info\INF573 - Computer Vision\Project\draughtsdetector.cpp(69,50): warning C4305: 'initialisation' : troncation de 'double' à 'float'
+C:\Users\pierr\Documents\Polytechnique\Info\INF573 - Computer Vision\Project\draughtsdetector.cpp(76,41): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+C:\Users\pierr\Documents\Polytechnique\Info\INF573 - Computer Vision\Project\draughtsdetector.cpp(93,15): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
+C:\Users\pierr\Documents\Polytechnique\Info\INF573 - Computer Vision\Project\draughtsdetector.cpp(125,21): warning C4244: 'initialisation' : conversion de 'double' en 'int', perte possible de données
+C:\Users\pierr\Documents\Polytechnique\Info\INF573 - Computer Vision\Project\draughtsdetector.cpp(152,13): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+C:\Users\pierr\Documents\Polytechnique\Info\INF573 - Computer Vision\Project\draughtsdetector.cpp(183,1): error C2955: 'std::vector' : l'utilisation de classe modèle requiert une liste d'arguments modèle
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\vector(353): message : voir la déclaration de 'std::vector'
+C:\Users\pierr\Documents\Polytechnique\Info\INF573 - Computer Vision\Project\draughtsdetector.cpp(183,1): error C2628: 'std::vector' suivi de 'int' n'est pas conforme (n'auriez-vous pas oublié un ';' ?)
+C:\Users\pierr\Documents\Polytechnique\Info\INF573 - Computer Vision\Project\draughtsdetector.cpp(184,1): error C2079: 'main' utilise une class de 'std::vector' non défini
+C:\Users\pierr\Documents\Polytechnique\Info\INF573 - Computer Vision\Project\draughtsdetector.cpp(184,1): error C3874: le type de retour de 'main' doit être 'int' au lieu de 'std::vector'
+C:\Users\pierr\Documents\Polytechnique\Info\INF573 - Computer Vision\Project\draughtsdetector.cpp(199,14): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
+C:\Users\pierr\Documents\Polytechnique\Info\INF573 - Computer Vision\Project\draughtsdetector.cpp(228,10): error C2440: 'return' : impossible de convertir de 'int' en 'std::vector'
+C:\Users\pierr\Documents\Polytechnique\Info\INF573 - Computer Vision\Project\draughtsdetector.cpp(228,10): message : Aucun constructeur n'a pu prendre le type de source, ou la résolution de la surcharge du constructeur était ambiguë

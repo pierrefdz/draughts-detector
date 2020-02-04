@@ -1,0 +1,10 @@
+^C:\USERS\PIERR\DOCUMENTS\POLYTECHNIQUE\INFO\INF573 - COMPUTER VISION\PROJECT\BUILD\CMAKEFILES\E41B4B1F06CFDAFFDCEFBD4BC754AA6E\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files (x86)\CMake\bin\cmake.exe" "-SC:/Users/pierr/Documents/Polytechnique/Info/INF573 - Computer Vision/Project" "-BC:/Users/pierr/Documents/Polytechnique/Info/INF573 - Computer Vision/Project/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/pierr/Documents/Polytechnique/Info/INF573 - Computer Vision/Project/build/DraughtsDetector.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

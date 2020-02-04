@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\pierr\Documents\Polytechnique\Info\INF573 - Computer Vision\Project\build\CMakeFiles\e41b4b1f06cfdaffdcefbd4bc754aa6e\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{C8CC6945-A32D-38A7-9EEA-A41A8C3E12EE}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

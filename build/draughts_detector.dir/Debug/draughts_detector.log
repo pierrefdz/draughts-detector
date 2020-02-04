@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\pierr\Documents\Polytechnique\Info\INF573 - Computer Vision\Project\main.cpp(24,14): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
+  draughts_detector.vcxproj -> C:\Users\pierr\Documents\Polytechnique\Info\INF573 - Computer Vision\Project\build\Debug\draughts_detector.exe

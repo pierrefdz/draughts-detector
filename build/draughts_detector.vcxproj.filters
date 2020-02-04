@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\pierr\Documents\Polytechnique\Info\INF573 - Computer Vision\Project\GridDetection.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\pierr\Documents\Polytechnique\Info\INF573 - Computer Vision\Project\PawnsDetection.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\pierr\Documents\Polytechnique\Info\INF573 - Computer Vision\Project\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\pierr\Documents\Polytechnique\Info\INF573 - Computer Vision\Project\GridDetection.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\pierr\Documents\Polytechnique\Info\INF573 - Computer Vision\Project\PawnsDetection.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\pierr\Documents\Polytechnique\Info\INF573 - Computer Vision\Project\main.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\pierr\Documents\Polytechnique\Info\INF573 - Computer Vision\Project\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{02FAF71E-0D60-3974-B9D8-1E58B9B2D251}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{010C551D-08FD-3927-AF5A-0C0993F6D2A7}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
